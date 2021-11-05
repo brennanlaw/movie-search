@@ -1,0 +1,1 @@
+Simple movie search using React and themoviedb api. Part of React Basics Scrimba course.
